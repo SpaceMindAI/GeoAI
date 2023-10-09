@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "spacemind-400800",
+  "private_key_id": "14a0fdaefd990bea04db8137a294326944891c2d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/bWlh0dXUFUzQ\nY2dH/t5azjxWsmj0X0xggWECxcNdB7LMHbGOS6DWiu91zKfA+OgeK4x/ocXdOAxM\nzfjmSfFNfSXJk92ymHTarNZjb3CiK2eQAipx4tCw3P3Du0xq4RMUrB+lIHYjpSCg\njMgsXf6YKjfVjb7ZjTVIKsKWe/VMw2mb8Ge6XvlYOytT0U473aJKeianjILAs/NH\nWAIYNBA6AvFi1++QQ5QQLiKzR+KpLzXRgvbJ6GuJ4HltnKO3gf7lxpU2w3Sv1k5b\nfxO7rw6bcDdrs1ZcxbEgv9ubdvyhqtcxH1ACd3Dmb4AmV1lsSAQtsSiVKR22f3+8\nqKsAcxfdAgMBAAECggEAAIfFh5t8Rb/swf3cc1+3q3YVAf+614TabVh3plfjxygI\nStdCBRip5AKV8LXC5VQ/JsG5am5TOpo3oa0LKvVuP4GrjZTS3l6nXud/ibcC9+sR\npOtilf0urDKGZCenkDgauCvcsgN3ZhxeINrCoOyf0fC2rj/cDzdIJH92akiSlR1y\ncmuVV6OlqZkelVKicJaCYFOpdTFvE0fFSq2yt4e7LEy7oEkfhpkrhZ8ZB5kOILix\nNRSxvZyh6CO9URY0CSeB9X5+5iuNj85jycTt0ySgG/BJVFM1csaQo8x1i5N0VOLD\nAZxSQgTr+HPdaPKvcSfnlzvWcON8JrFdfK4eMhtxYQKBgQD98iRQYQd+HsdZjGgM\n69hlHdDc6TvZtsuTiuhNUWJZZYFqWsKN4bIdZOUz4EhUYrXSKU1L5b1J/OpaqtSX\nsNhWi0qY9HaQPqY8CXV8syOh2zwyNh7lUqOa0gzzwjvrMOSVxJq3IRMb2tXm3OUP\nhNYcAsSdxvvEuAjCdXXA5EiroQKBgQDA+c9KA42kCXL00gqnnNLJsjNuZi5QaWr5\nv0gGHtqdGWi/TGTtYNLVKSO3H32NxtxbMpxamYDaldPJGXkTvLvLSLD5g7S64AUj\nHjiaMNiG6Wk8JvHEBfoRSHKpJ/EQlM6KsOAfWBR8lJN/L4LMcjjJ+sjdLrU6ShqJ\n30QSyGEivQKBgQCfpMoPffAn6VGJiisfdGTlrIjRWA64H6J7bqf7c15QtO9W3RfR\n+kDvGa69nhHaevOy2yQswpDtIoJx3VMoyZQ3U/nhjk27AKegtpGVg0izSA/fwQZL\nRFh1y/c4hrMEeAg73w0kczaAHGK8b8HQr8GqelMAnUdJtChNl2ofiWPmAQKBgF8r\nlEh7QiJxKomFAQ4ysF4ajXTX3eV4Z/KtnFawZr5tppQZl/jd9Hx94ohQdnoyZcBw\nUF36MGsc0yrtbiIGxVL3EZislLhI/R+Zqu6YQmEewfCRgFBdZjuZ0DqOYTv9N3N8\n0buDk+7w02E5TDeJ6WnrTZ6Ph38sxrPSMV9WBVm9AoGAQSRVBBq3YRjS/UTG2BM5\nfTO4dobrw9voAVcRrwm3K++BEb5i6lV3SgnT/+6asSBFUQe9VGovZ0RPv/3j6BzW\n/qDcDf1J/oYDV2PNjpGx1JHKDDSbfbLqXxdeDBHUtF5s2IoDXzRiNq31PbtQJmLr\n67ulZUX6qYIqVX736EwAgNI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "solicitud-de-credenciales-api@spacemind-400800.iam.gserviceaccount.com",
+  "client_id": "117944122692760030317",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/solicitud-de-credenciales-api%40spacemind-400800.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
